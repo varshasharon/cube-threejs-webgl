@@ -36,6 +36,9 @@ While working on this, I learned:
 
 3. The 3D cube should be visible and rotating.
 
+![image](https://github.com/user-attachments/assets/a9be222e-a23b-4f73-81c9-5734712914bb)
+
+
 ### Future Improvements
 
 • Adding lights to make the cube look more realistic
